@@ -53,6 +53,12 @@
       <td>REST API + SwaggerUI</td>
       <td>NestTS</td>
     </tr>
+    <tr>
+      <td>vt_auto-email</td>
+      <td><a href="https://github.com/ooodepa/vt_auto-email">open</a></td>
+      <td>Python</td>
+      <td></td>
+    </tr>
     <tr><td colspan="4"></td></tr>
     <tr>
       <td colspan="4" align="center">Other repositories</td>
@@ -62,12 +68,6 @@
       <td align="center">2</td>
       <td align="center">3</td>
       <td align="center">4</td>
-    </tr>
-    <tr>
-      <td>ooodepa.github.io</td>
-      <td><a href="https://github.com/ooodepa/ooodepa.github.io">open</a></td>
-      <td>Build sources for GitHub Pages website</td>
-      <td align="center">x</td>
     </tr>
     <tr>
       <td>assets</td>
