@@ -9,7 +9,7 @@
       <td align="center">Name</td>
       <td align="center">Open</td>
       <td align="center">Description</td>
-      <td align="center">Library, framework</td>
+      <td align="center">Libraries, frameworks, languages</td>
     </tr>
   </thead>
   <tbody>
@@ -27,37 +27,31 @@
       <td>dp_admin_panel</td>
       <td><a href="https://github.com/ooodepa/dp_admin_panel">open</a></td>
       <td>Admin panel</td>
-      <td>CreateReactAppTS</td>
+      <td>CreateReactApp, TypeScript</td>
     </tr>
     <tr>
       <td>dp_manager_panel</td>
       <td><a href="https://github.com/ooodepa/dp_manager_panel">open</a></td>
       <td>Manager panel</td>
-      <td>CreateReactAppTS</td>
+      <td>CreateReactApp, TypeScript</td>
     </tr>
     <tr>
       <td>dp_website</td>
       <td><a href="https://github.com/ooodepa/dp_website">open</a></td>
       <td>SSG website</td>
-      <td>NextTS</td>
+      <td>NextJS, TypeScript</td>
     </tr>
     <tr>
       <td>dp_mobile</td>
       <td><a href="https://github.com/ooodepa/dp_mobile">open</a></td>
       <td>Mobile app</td>
-      <td>ReactNative</td>
+      <td>ReactNative, TypeScript</td>
     </tr>
     <tr>
       <td>dp_backend_v1</td>
       <td><a href="https://github.com/ooodepa/dp_backend_v1">open</a></td>
       <td>REST API + SwaggerUI</td>
-      <td>NestTS</td>
-    </tr>
-    <tr>
-      <td>vt_auto-email</td>
-      <td><a href="https://github.com/ooodepa/vt_auto-email">open</a></td>
-      <td>Python</td>
-      <td></td>
+      <td>NestJS, TypeScript, TypeORM</td>
     </tr>
     <tr><td colspan="4"></td></tr>
     <tr>
@@ -73,19 +67,19 @@
       <td>assets</td>
       <td><a href="https://github.com/ooodepa/assets">open</a></td>
       <td>Images</td>
-      <td align="center">x</td>
+      <td align="center">PNG, JPG, SVG</td>
     </tr>
     <tr>
       <td>ooodepa_data</td>
       <td><a href="https://github.com/ooodepa/ooodepa_data">open</a></td>
-      <td>JSON data</td>
-      <td align="center">x</td>
+      <td>Data</td>
+      <td align="center">JSON, XML, SQL</td>
     </tr>
     <tr>
       <td>.github</td>
       <td><a href="https://github.com/ooodepa/.github">open</a></td>
       <td>GitHub profile</td>
-      <td align="center">x</td>
+      <td align="center">Markdown</td>
     </tr>
   </tbody>
 </table>
