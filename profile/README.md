@@ -54,16 +54,22 @@
       <td>NestJS, TypeScript, TypeORM</td>
     </tr>
     <tr>
-      <td>dp_turkpazar-ru_import_file_generator</td>
-      <td><a href="https://github.com/ooodepa/dp_turkpazar-ru_import_file_generator">open</a></td>
-      <td></td>
-      <td>TypeScript, JSON, XML</td>
-    </tr>
-    <tr>
       <td>images</td>
       <td><a href="https://github.com/ooodepa/images">open</a></td>
       <td></td>
       <td>jpg, jpeg, png, webp, svg</td>
+    </tr>
+    <tr>
+      <td>dp_turkpazar-ru_import_file_generator</td>
+      <td><a href="https://github.com/ooodepa/dp_turkpazar-ru_import_file_generator">open</a></td>
+      <td>mini application</td>
+      <td>TypeScript, JSON, XML</td>
+    </tr>
+    <tr>
+      <td>dp_set-RUB-from-USD </td>
+      <td><a href="https://github.com/ooodepa/dp_set-RUB-from-USD ">open</a></td>
+      <td>mini application</td>
+      <td>TypeScript, JSON</td>
     </tr>
     <tr><td colspan="4"></td></tr>
     <tr>
