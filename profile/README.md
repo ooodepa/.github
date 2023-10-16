@@ -53,6 +53,18 @@
       <td>REST API + SwaggerUI</td>
       <td>NestJS, TypeScript, TypeORM</td>
     </tr>
+    <tr>
+      <td>dp_turkpazar-ru_import_file_generator</td>
+      <td><a href="https://github.com/ooodepa/dp_turkpazar-ru_import_file_generator">open</a></td>
+      <td></td>
+      <td>TypeScript, JSON, XML</td>
+    </tr>
+    <tr>
+      <td>images</td>
+      <td><a href="https://github.com/ooodepa/images">open</a></td>
+      <td></td>
+      <td>jpg, jpeg, png, webp, svg</td>
+    </tr>
     <tr><td colspan="4"></td></tr>
     <tr>
       <td colspan="4" align="center">Other repositories</td>
@@ -62,12 +74,6 @@
       <td align="center">2</td>
       <td align="center">3</td>
       <td align="center">4</td>
-    </tr>
-    <tr>
-      <td>assets</td>
-      <td><a href="https://github.com/ooodepa/assets">open</a></td>
-      <td>Images</td>
-      <td align="center">PNG, JPG, SVG</td>
     </tr>
     <tr>
       <td>ooodepa_data</td>
