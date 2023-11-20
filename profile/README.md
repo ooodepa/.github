@@ -66,10 +66,10 @@
       <td>TypeScript, JSON, XML</td>
     </tr>
     <tr>
-      <td>dp_set-RUB-from-USD </td>
-      <td><a href="https://github.com/ooodepa/dp_set-RUB-from-USD ">open</a></td>
+      <td>dp-set-price</td>
+      <td><a href="https://github.com/ooodepa/dp-set-price">open</a></td>
       <td>mini application</td>
-      <td>TypeScript, JSON</td>
+      <td>TypeScript</td>
     </tr>
     <tr><td colspan="4"></td></tr>
     <tr>
